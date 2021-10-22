@@ -2,7 +2,7 @@
 
 A script to locate duplicate or non-duplicate contacts between two `.csv` contact lists.
 
-It is not just restricted to contacts as the project name implies, but really can compare between any two `.csv` lists.
+It is not just restricted to contacts as the project name implies, but really can compare between any two `.csv` lists. In fact you can use `.json` and `.xml`, just change the `ConvertFrom-Csv` to `ConvertFromJson` and `ConvertFrom-Xml` respectively.
 
 ## Notes
 
